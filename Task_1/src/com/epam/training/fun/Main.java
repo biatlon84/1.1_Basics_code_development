@@ -19,8 +19,8 @@ public class Main {
 
 	public static double Typing(Scanner sc) {
 		while (!sc.hasNextDouble()) {
-			System.out.print(sc.nextLine());
-			System.out.print("it is't type double\n>>");
+			System.out.print(" \"" + sc.next() + "\"");
+			System.out.print(" it is't type double\n>>");
 		}
 		return sc.nextDouble();
 	}
