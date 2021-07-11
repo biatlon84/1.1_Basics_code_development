@@ -1,6 +1,6 @@
 package com.epam.training.form;
 
-//Find value of function (Task_3)
+//Find value of formula (Task_3)
 public class Main {
 
 	public static void main(String[] args) {
