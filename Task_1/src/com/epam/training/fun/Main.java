@@ -2,7 +2,7 @@ package com.epam.training.fun;
 
 import java.util.Scanner;
 
-//Find value of function
+//Find value of function (Task1)
 public class Main {
 	public static void main(String[] args) {
 		double a, b, c, z;

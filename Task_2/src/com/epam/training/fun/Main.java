@@ -17,7 +17,7 @@ public class Main {
 		z = (b + Math.sqrt(Math.pow(b, 2) + 4 * a * c)) / (2 * a);
 		x = Math.pow(a, 3) * c;
 		y = Math.pow(b, -2);
-		System.out.println("answer is\n>>" + (z - x + y));
+		System.out.println("The answer is\n>>" + (z - x + y));
 	}
 
 	public static double Typing(Scanner sc) {
