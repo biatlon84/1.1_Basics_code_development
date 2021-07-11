@@ -1,7 +1,7 @@
 package com.epam.training.ti;
 
 //T is time in seconds (Task_5)
-// output T in this  view: HHч MMмин SSс 
+// output T in this view HHh MMm SSs 
 public class Main {
 	public static void main(String[] args) {
 		long T;
