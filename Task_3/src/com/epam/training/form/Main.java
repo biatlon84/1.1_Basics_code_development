@@ -14,7 +14,7 @@ public class Main {
 		sinX = Math.sin(x);
 		ans = ((sinX + cosY) / (cosX - sinY)) * Math.tan(x * y);
 		System.out.println("The answer is ");
-		System.out.println(">> " + ans);
+		System.out.println("<<>> " + ans);
 	}
 
 }
